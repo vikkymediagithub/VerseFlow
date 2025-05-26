@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "text": "Children, obey your parents in the Lord, for this is right.",
+    "book": "Ephesians",
+    "chapter": 6,
+    "verse": 1,
+    "topic": [
+      "obedience",
+      "family"
+    ],
+    "ageGroup": "elementary"
+  },
+  {
+    "id": 2,
+    "text": "Let no one despise your youth, but be an example to the believers.",
+    "book": "1 Timothy",
+    "chapter": 4,
+    "verse": 12,
+    "topic": [
+      "youth",
+      "example"
+    ],
+    "ageGroup": "preteens"
+  },
+  {
+    "id": 3,
+    "text": "Trust in the Lord with all your heart and lean not on your own understanding.",
+    "book": "Proverbs",
+    "chapter": 3,
+    "verse": 5,
+    "topic": [
+      "faith",
+      "trust"
+    ],
+    "ageGroup": "preteens"
+  },
+  {
+    "id": 4,
+    "text": "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.",
+    "book": "Ephesians",
+    "chapter": 4,
+    "verse": 32,
+    "topic": [
+      "kindness",
+      "forgiveness"
+    ],
+    "ageGroup": "elementary"
+  },
+  {
+    "id": 5,
+    "text": "Your word is a lamp to my feet and a light to my path.",
+    "book": "Psalm",
+    "chapter": 119,
+    "verse": 105,
+    "topic": [
+      "God's Word",
+      "guidance"
+    ],
+    "ageGroup": "elementary"
+  }
+]
